@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://jorshi.github.io/nbdev-hello-world"
+  description: "NBDEV Test"
+  repo-branch: main
+  repo-url: "https://github.com/jorshi/nbdev-hello-world"
